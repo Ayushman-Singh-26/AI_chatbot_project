@@ -1,7 +1,7 @@
 import requests
 import json
 
-API_KEY = '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'
+API_KEY = 'your api key'
 MODEL_ID = 'gpt2'
 
 url = f"https://api-inference.huggingface.co/models/{MODEL_ID}"
