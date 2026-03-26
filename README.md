@@ -29,3 +29,8 @@ An AI-powered voice assistant built with Python that listens to voice commands a
 ---
 
 ## 📂 Project Structure
+AI_chatbot_project/
+│── main.py              # Main application logic
+│── client.py            # API interaction (Hugging Face)
+│── musiclibrary.py      # Custom music links
+│── README.md            # Project documentation
