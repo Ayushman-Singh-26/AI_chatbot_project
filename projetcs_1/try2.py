@@ -9,7 +9,7 @@ from transformers import GPT2LMHeadModel, GPT2Tokenizer
 
 recognizer = sr.Recognizer()
 engine = pyttsx3.init()
-newsapi = "d5c0e344c6c6468889fcaff914f08eef"
+newsapi = "your api"
 
 # Initialize the GPT-2 text generator
 generator = pipeline('text-generation', model='gpt2')
